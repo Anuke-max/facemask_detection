@@ -13,7 +13,7 @@
 [![MIT License](https://img.shields.io/github/license/Anuke-max/facemask_detection.svg?style=flat-square)](https://github.com/Anuke-max/facemask_detection/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/anuk2097/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Live Demo](https://github.com/Anuke-max/facemask_detection/blob/master/Readme_images/Demo.gif)
+![Live Demo](https://github.com/Anuke-max/facemask_detection/blob/main/Readme_images/Demo.gif)
 
 
 
